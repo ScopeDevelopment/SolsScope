@@ -1,0 +1,14 @@
+discord.py
+pyautogui
+pynput
+requests
+pillow
+screeninfo
+mousekey
+psutil
+easyocr==1.7.2
+pyqt6
+keyboard
+pyscreenrec
+watchdog
+pywin32

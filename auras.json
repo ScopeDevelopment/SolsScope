@@ -1,0 +1,309 @@
+{
+    "#38c8d8,#000000": {
+        "name" : "Exotic",
+        "rarity" : "99999"
+    },
+    "#4bff9c,#0a1d13": {
+        "name" : "Exotic: Apex",
+        "rarity" : "49999500"
+    },
+    "#ae4bb5,#270d29": {
+        "name" : "Exotic: Void",
+        "rarity" : "299999999"
+    },
+    "#2d2961,#000000": {
+        "name" : "Diaboli: Void",
+        "rarity" : "100400"
+    },
+    "#55991a,#000000": {
+        "name" : "Undead: Devil",
+        "rarity" : "120000"
+    },
+    "#999999,#000000": {
+        "name" : "Comet",
+        "rarity" : "120000"
+    },
+    "#096837,#000000": {
+        "name" : "Jade",
+        "rarity" : "125000"
+    },
+    "#0c0d12,#000000": {
+        "name" : "Spectre",
+        "rarity" : "140000"
+    },
+    "#ffe5a3,#000000" : {
+        "name" : "Jazz",
+        "rarity" : "160000"
+    },
+    "#70acb9,#000000": {
+        "name": "Aether",
+        "rarity" : "180000"
+    },
+    "#2556ff,#000000": {
+        "name" : "Bounded",
+        "rarity" : "200000"
+    },
+    "#97a2ff,#000000": {
+        "name" : "Celestial",
+        "rarity" : "350000"
+    },
+    "#9b81be,#0e0e0e": {
+        "name" : "Celestial: Divine",
+        "rarity" : "7000000"
+    },
+    "#281692,#000000": {
+        "name" : "Kyawthuite",
+        "rarity" : "850000"
+    },
+    "#6e96ff,#0e0e0e": {
+        "name" : "Arcane",
+        "rarity" : "1000000"
+    },
+    "#6781ff,#04050e": {
+        "name" : "Arcane: Legacy",
+        "rarity" : "15000000"
+    },
+    "#5b35ff,#07020d": {
+        "name" : "Arcane: Dark",
+        "rarity" : "30000000"
+    },"#d37e93,#0e0e0e": {
+        "name" : "Magnetic: Reverse Polarity",
+        "rarity" : "1024000"
+    },
+    "#313131,#0e0e0e": {
+        "name" : "Undefined",
+        "rarity" : "1111000"
+    },
+    "#fd1011,#0e0e0e": {
+        "name" : "Rage: Brawler",
+        "rarity" : "1280000"
+    },
+    "#7841ca,#0e0e0e": {
+        "name" : "Astral",
+        "rarity" : "1336000"
+    },
+    "#5163ff,#0e0e0e": {
+        "name" : "Gravitational",
+        "rarity" : "2000000"
+    },
+    "#4d40ff,#0e0e0e": {
+        "name" : "Bounded: Unbound",
+        "rarity" : "2000000"
+    },
+    "#4b8bff,#0e0e0e": {
+        "name" : "Virtual",
+        "rarity" : "2500000"
+    },
+    "#ff5582,#0e0e0e": {
+        "name" : "Savior",
+        "rarity" : "3200000"
+    },
+    "#0e648b,#0e0e0e": {
+        "name" : "Poseidon",
+        "rarity" : "4000000"
+    },
+    "#a35725,#0e0e0e": {
+        "name" : "Aquatic: Flame",
+        "rarity" : "4000000"
+    },
+    "#fffad3,#0e0e0e": {
+        "name" : "Zeus",
+        "rarity" : "4500000"
+    },
+    "#b37e7a,#0e0e0e": {
+        "name" : "Lunar: Full Moon",
+        "rarity" : "5000000"
+    },
+    "#f2cf17,#0e0e0e" : {
+        "name" : "Solar: Solstice",
+        "rarity" : "5000000"
+    },
+    "#5142ff,#0e0e0e": {
+        "name" : "Galaxy",
+        "rarity" : "5000000"
+    },
+    "#513fff,#0e0e0e": {
+        "name" : "Twilight",
+        "rarity" : "6000000"
+    },
+    "#5b4d9f,#040306": {
+        "name" : "Twilight: Iridescent Memory",
+        "rarity" : "60000000"
+    },
+    "#5c5fff,#0e0e0e": {
+        "name" : "Origin",
+        "rarity" : "6500000"
+    },
+    "#772500,#0e0e0e": {
+        "name" : "Hades",
+        "rarity" : "6666666"
+    },
+    "#8c61ff,#0e0e0e": {
+        "name" : "Hyper-volt",
+        "rarity" : "7500000"
+    },
+    "#ffffff,#0e0e0e": {
+        "name" : "Nihility/Mega Ticket",
+        "rarity" : "9000000"
+    },
+    "#ff8080,#0e0404": {
+        "name" : "Starscourge",
+        "rarity" : "10000000"
+    },
+    "#99c8ff,#******": {
+        "name" : "Starscourge: Radiant",
+        "rarity" : "100000000"
+    },
+    "#749eff,#06090e": {
+        "name" : "Sailor",
+        "rarity" : "12000000"
+    },
+    "#3898b6,#0b1510": {
+        "name" : "Sailor: Flying Dutchman",
+        "rarity" : "800000000"
+    },
+    "#b1b1b1,#0c0c0c": {
+        "name" : "Stormal: Hurricane",
+        "rarity" : "13500000"
+    },
+    "#fbc28b,#0e0905": {
+        "name" : "Sirius",
+        "rarity" : "14000000"
+    },
+    "#3fffec,#******": {
+        "name" : "Chromatic",
+        "rarity" : "20000000"
+    },
+    "#ffffff,#000002": {
+        "name" : "Chromatic: Genesis",
+        "rarity" : "99999999"
+    },
+    "#d69044,#070502": {
+        "name" : "Aviator",
+        "rarity" : "24000000"
+    },
+    "#cfbeff,#0a090e": {
+        "name" : "Ethereal",
+        "rarity" : "35000000"
+    },
+    "#9dbfff,#080a0e": {
+        "name" : "Overseer",
+        "rarity" : "45000000"
+    },
+    "#5bffb0,#050e09": {
+        "name" : "Matrix",
+        "rarity" : "50000000"
+    },
+    "#d31e21,#******": {
+        "name" : "Matrix: Overdrive",
+        "rarity" : "503000000"
+    },
+    "#3c66ff,#******": {
+        "name" : "Overture",
+        "rarity" : "150000000"
+    },
+    "#59ff96,#******": {
+        "name": "Overture: History",
+        "rarity" : "300000000"
+    },
+    "#abbeff,#030305": {
+        "name" : "Symphony",
+        "rarity" : "175000000"
+    },
+    "#8041ff,#05010e": {
+        "name" : "Impeached",
+        "rarity" : "200000000"
+    },
+    "#e7c39d,#******": {
+        "name" : "Archangel",
+        "rarity" : "250000000"
+    },
+    "#d90005,#0e0000": {
+        "name" : "Bloodlust",
+        "rarity" : "300000000"
+    },
+    "#ffbe85,#0c0703": {
+        "name" : "Atlas",
+        "rarity" : "360000000"
+    },
+    "#0055ff,#******": {
+        "name" : "Abyssal Hunter",
+        "rarity" : "400000000"
+    },
+    "#ffbd43,#******": {
+        "name" : "Gargantua",
+        "rarity" : "430000000"
+    },
+    "#ff6250,#******": {
+        "name" : "Apostolos",
+        "rarity" : "444000000"
+    },
+    "#41ff83,#070e08": {
+        "name" : "Ruins",
+        "rarity" : "500000000"
+    },
+    "#94bcb6,#******": {
+        "name" : "Sovereign",
+        "rarity" : "7500000000"
+    },
+    "#5d8aff,#******": {
+        "name" : "Aegis",
+        "rarity" : "825000000"
+    },
+    "#c2deff,#040506": {
+        "name" : "Luminosity",
+        "rarity" : "12000000000"
+    },
+    "#37572f,#******": {
+        "name" : "Glitch",
+        "rarity" : "12000000"
+    },
+    "#bababa,#000000": {
+        "name" : "Oppression",
+        "rarity" : "220000000"
+    },
+    "#5343d4,#120c2a": {
+        "name" : "Memory, The Fallen",
+        "rarity" : "100 from Oblivion Potion"
+    },
+    "#510e9e,#080410": {
+        "name" : "Oblivion: The truth seeker",
+        "rarity" : "2000 from Oblivion Potion"
+    },
+    "#3b9aff,#0c1a2a": {
+        "name" : "Shard Surfer",
+        "rarity" : "225000000"
+    },
+    "#1b1a47,#020104": {
+        "name" : "Innovator",
+        "rarity" : "30000000"
+    },
+    "#ffcf6a,#000000": {
+        "name" : "Pump",
+        "rarity" : "200000"
+    },
+    "#7f9cff,#050509": {
+        "name" : "Wonderland",
+        "rarity" : "12000000"
+    },
+    "#62a0fe,#05070b": {
+        "name" : "Santa Frost",
+        "rarity" : "45000000"
+    },
+    "#6abffe,#020608": {
+        "name" : "Winter Fantasy",
+        "rarity" : "72000000"
+    },
+    "#603b28,#040202": {
+        "name" : "Express",
+        "rarity" : "90000000"
+    },
+    "#050808,#010404": {
+        "name" : "Abomitable",
+        "rarity" : "120000000"
+    },
+    "#9df2fc,#******": {
+        "name" : "Atlas: Yuletide",
+        "rarity" : "510000000"
+    }
+}

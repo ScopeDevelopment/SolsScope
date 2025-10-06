@@ -1,0 +1,278 @@
+{
+    "Basic Hunt" : {
+        "quest_title" : "Basic Hunt",
+        "difficulty" : 1,
+        "objective" : "Roll set Basic rarity Aura. (1-998)",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Lucky Potion",
+                "type" : "item",
+                "amount" : 5,
+                "chance" : 1
+            },
+            {
+                "name" : "Speed Potion",
+                "type" : "item",
+                "amount" : 5,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/e/ef/Common_Aura.gif/revision/latest"
+    },
+    "Epic Hunt" : {
+        "quest_title" : "Epic Hunt",
+        "difficulty" : 2,
+        "objective" : "Roll set Epic rarity Aura. (999-9998)",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Lucky Potion",
+                "type" : "item",
+                "amount" : 10,
+                "chance" : 1
+            },
+            {
+                "name" : "Speed Potion",
+                "type" : "item",
+                "amount" : 10,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/7/78/Glock.gif/revision/latest"
+    },
+    "Unique Hunt" : {
+        "quest_title" : "Unique Hunt",
+        "difficulty" : 3,
+        "objective" : "Roll set Unique rarity Aura. (9999-99998)",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Lucky Potion",
+                "type" : "item",
+                "amount" : 25,
+                "chance" : 1
+            },
+            {
+                "name" : "Speed Potion",
+                "type" : "item",
+                "amount" : 25,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/9/9a/Powered.gif/revision/latest"
+    },
+    "Legendary Hunt" : {
+        "quest_title" : "Legendary Hunt",
+        "difficulty" : 4,
+        "objective" : "Roll set Legendary rarity Aura. (99999-999998)",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Lucky Potion",
+                "type" : "item",
+                "amount" : 100,
+                "chance" : 1
+            },
+            {
+                "name" : "Speed Potion",
+                "type" : "item",
+                "amount" : 100,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/6/67/Kyawthuite_Collection2.gif/revision/latest"
+    },
+    "Mythic Hunt" : {
+        "quest_title" : "Mythic Hunt",
+        "difficulty" : 5,
+        "objective" : "Roll set Mythic rarity Aura. (999999-9999998)",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Lucky Potion",
+                "type" : "item",
+                "amount" : 1000,
+                "chance" : 1
+            },
+            {
+                "name" : "Speed Potion",
+                "type" : "item",
+                "amount" : 1000,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/8/88/VirtualReworkCollection.gif/revision/latest"
+    },
+    "Finding a person" : {
+        "quest_title" : "Finding a person",
+        "difficulty" : 5,
+        "objective" : "Find and talk to Jester",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Potion of Bound",
+                "type" : "item",
+                "amount" : 1,
+                "chance" : 1
+            },
+            {
+                "name" : "Void Coin",
+                "type" : "item",
+                "amount" : 1,
+                "chance" : 0.1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/d/db/Headshot_of_Jester.png/revision/latest"
+    },
+    "Meditation I" : {
+        "quest_title" : "Meditation I",
+        "difficulty" : 1,
+        "objective" : "Play the game for 10 minutes",
+        "objective_amount" : 10,
+        "reward" : [
+            {
+                "name" : "Incense Burner",
+                "type" : "item",
+                "amount" : 1,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/e/e8/Overture_Collection.gif/revision/latest"
+    },
+    "Meditation II" : {
+        "quest_title" : "Meditation II",
+        "difficulty" : 2,
+        "objective" : "Play the game for 30 minutes",
+        "objective_amount" : 30,
+        "reward" : [
+            {
+                "name" : "Incense Burner",
+                "type" : "item",
+                "amount" : 3,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/6/61/Overture_History_Eon1_Collection.gif/revision/latest"
+    },
+    "Windy Breakthrough" : {
+        "quest_title" : "Windy Breakthrough",
+        "difficulty" : 3,
+        "objective" : "Roll a biome aura from a different biomes with its breakthrough rarity rarer than 1 in 1,000 in Windy",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Random Rune Chest",
+                "type" : "item",
+                "amount" : 1,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/1/19/Windy_img%28fixed%29.png/revision/latest"
+    },
+    "Snowy Breakthrough" : {
+        "quest_title" : "Snowy Breakthrough",
+        "difficulty" : 3,
+        "objective" : "Roll a biome aura from a different biomes with its breakthrough rarity rarer than 1 in 1,000 in Snowy",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Random Rune Chest",
+                "type" : "item",
+                "amount" : 1,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/d/d7/Snowy_img.png/revision/latest"
+    },
+    "Rainy Breakthrough" : {
+        "quest_title" : "Rainy Breakthrough",
+        "difficulty" : 3,
+        "objective" : "Roll a biome aura from a different biomes with its breakthrough rarity rarer than 1 in 1,000 in Rainy",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Random Rune Chest",
+                "type" : "item",
+                "amount" : 1,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/e/ec/Rainy.png/revision/latest"
+    },
+    "SandStorm Breakthrough" : {
+        "quest_title" : "SandStorm Breakthrough",
+        "difficulty" : 4,
+        "objective" : "Roll a biome aura from a different biomes with its breakthrough rarity rarer than 1 in 100,000 in SandStorm",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Random Rune Chest",
+                "type" : "item",
+                "amount" : 5,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/7/7c/Sand_Storm.png/revision/latest"
+    },
+    "Starfall Breakthrough" : {
+        "quest_title" : "Starfall Breakthrough",
+        "difficulty" : 4,
+        "objective" : "Roll a biome aura from a different biomes with its breakthrough rarity rarer than 1 in 100,000 in Starfall",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Random Rune Chest",
+                "type" : "item",
+                "amount" : 5,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/f/f5/Starfall_phone_ss.jpg/revision/latest"
+    },
+    "Hell Breakthrough" : {
+        "quest_title" : "Hell Breakthrough",
+        "difficulty" : 4,
+        "objective" : "Roll a biome aura from a different biomes with its breakthrough rarity rarer than 1 in 100,000 in Hell",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Random Rune Chest",
+                "type" : "item",
+                "amount" : 5,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/b/b3/New_Hell_Biome.png/revision/latest"
+    },
+    "Corruption Breakthrough" : {
+        "quest_title" : "Corruption Breakthrough",
+        "difficulty" : 5,
+        "objective" : "Roll a biome aura from a different biomes with its breakthrough rarity rarer than 1 in 1,000,000 in Corruption",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Random Rune Chest",
+                "type" : "item",
+                "amount" : 10,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/4/48/CorruptionBiome.png.png/revision/latest"
+    },
+    "Null Breakthrough" : {
+        "quest_title" : "Null Breakthrough",
+        "difficulty" : 5,
+        "objective" : "Roll a biome aura from a different biomes with its breakthrough rarity rarer than 1 in 1,000,000 in Null",
+        "objective_amount" : 1,
+        "reward" : [
+            {
+                "name" : "Random Rune Chest",
+                "type" : "item",
+                "amount" : 10,
+                "chance" : 1
+            }
+        ],
+        "img_url" : "https://static.wikia.nocookie.net/sol-rng/images/3/38/Null_daytime.png/revision/latest"
+    }
+}
